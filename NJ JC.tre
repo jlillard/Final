@@ -1,0 +1,38 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Friday, April 19, 2019 at 2:31:41 PM Central Daylight Time]
+[!
+>Data file = turtle.nexus
+>Neighbor-joining search settings:
+>  Ties (if encountered) will be broken systematically
+>  Distance measure = Jukes-Cantor
+>  All characters have equal weight
+>  (Tree is unrooted)
+]
+	Translate
+		1 lcl|U81342.1_cds_AAB57644.1_1,
+		2 lcl|U81359.1_cds_AAB57659.1_1,
+		3 lcl|U81344.1_cds_AAB57648.1_1,
+		4 lcl|U81345.1_cds_AAB57655.1_1,
+		5 lcl|U81351.1_cds_AAB57666.1_1,
+		6 lcl|U81352.1_cds_AAB57649.1_1,
+		7 lcl|U81363.1_cds_AAB57652.1_1,
+		8 lcl|U81353.1_cds_AAB57656.1_1,
+		9 lcl|U81362.1_cds_AAB57657.1_1,
+		10 lcl|U81358.1_cds_AAB57650.1_1,
+		11 lcl|U81357.1_cds_AAB57651.1_1,
+		12 lcl|U81361.1_cds_AAB57662.1_1,
+		13 lcl|U81364.1_cds_AAB57653.1_1,
+		14 lcl|U81350.1_cds_AAB57658.1_1,
+		15 lcl|U81349.1_cds_AAB57665.1_1,
+		16 lcl|U81354.1_cds_AAB57654.1_1,
+		17 lcl|U81356.1_cds_AAB57647.1_1,
+		18 lcl|U81343.1_cds_AAB57645.1_1,
+		19 lcl|U81348.1_cds_AAB57661.1_1,
+		20 lcl|U81355.1_cds_AAB57646.1_1,
+		21 lcl|U81360.1_cds_AAB57660.1_1,
+		22 lcl|U81346.1_cds_AAB57663.1_1,
+		23 lcl|U81347.1_cds_AAB57664.1_1
+		;
+tree 'PAUP_1' = [&U] (1,2,(((((((3,(4,5)),(8,(9,10))),((6,7),11)),(12,13)),(14,15)),20),(((16,17),(18,19)),(21,(22,23)))));
+End;
